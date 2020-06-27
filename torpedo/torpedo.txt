@@ -1,0 +1,3 @@
+ng serve
+nimdimg potr interpelacion {{}}
+ng g component component/peliculas
